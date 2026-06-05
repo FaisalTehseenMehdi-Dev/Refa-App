@@ -264,7 +264,7 @@ Department of Computer Science
 University of Layyah
 
 * 🔗 GitHub: [github.com/rehansharif-dev](https://github.com/FaisalTehseenMehdi-Dev/Refa-App
-* 📧 Email: rehansharif000@gmail.com
+* 📧 Email: faisaltehseenmehdi@gmail.com
 
 \---
 
