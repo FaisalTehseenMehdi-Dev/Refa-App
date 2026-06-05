@@ -274,4 +274,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 
 \---
 
-<p align="center">Made with ❤️ in Pakistan 🇵🇰</p>
+<p align="center">Made with ❤️</p>
